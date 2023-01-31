@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FronteraVictor_ExamenFinal</string>
+    <string name="preferences">Preferencias</string>
+    <string name="activated">Activado</string>
+    <string name="disabled">Desactivado</string>
+    <string name="change_color">Cambiar color</string>
+    <string name="style_one">Estilo 1</string>
+    <string name="style_two">Estilo 2</string>
+    <string name="hello">Hola</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <string name="fragment3">Fragment 3</string>
+    <string name="accept">Aceptar</string>
+    <string name="id">id</string>
+    <string name="name">Nombre</string>
+    <string name="surname">Apellido</string>
+    <string name="years">Años</string>
+    <string name="delete">Eliminar</string>
+    <string name="deleted">Borrado</string>
+    <string name="fail_reponse">Fallo en la respuesta</string>
+    <string name="teams">Equipos</string>
+    <string name="bye">Adios</string>
+    <string name="all">Todo</string>
+    <string name="only_name">Solo nombre</string>
+    <string-array name="spinner">
+        <item>@string/all</item>
+        <item>@string/only_name</item>
+    </string-array>
+</resources>
