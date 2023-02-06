@@ -43,6 +43,7 @@ class Fragment2: Fragment() {
         val btnAccept: Button = view.findViewById(R.id.btnAccept)
 
         val txtId: TextView = view.findViewById(R.id.txtid)
+
         val txtIdJson: TextView = view.findViewById(R.id.txtidElement)
 
         val txtSurname: TextView = view.findViewById(R.id.txtSurname)
@@ -101,7 +102,6 @@ class Fragment2: Fragment() {
                 txtIdJson.visibility = View.GONE
                 txtSurname.visibility = View.GONE
                 txtYears.visibility = View.GONE
-                playerAdapter?.
 
             } else {
                 txtId.visibility = View.VISIBLE

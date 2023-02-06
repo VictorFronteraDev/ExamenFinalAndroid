@@ -22,6 +22,9 @@
     <string name="bye">Adios</string>
     <string name="all">Todo</string>
     <string name="only_name">Solo nombre</string>
+    <string name="load">Cargar</string>
+    <string name="minutes">minutos</string>
+    <string name="to_list">Listar</string>
     <string-array name="spinner">
         <item>@string/all</item>
         <item>@string/only_name</item>
